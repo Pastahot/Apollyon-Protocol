@@ -3,6 +3,6 @@ Unleash the power of innovation with Apollyon Protocol, where we conquer the unk
 
 #Update
 Conqueror Update 1.0,
-AATIS Realese 8.6.2024(aprox),
+AATIS Realese 8.6.2024(est),
 VEE Realese 8.6.2025,
 DSTR A Realese 8.6.2026
